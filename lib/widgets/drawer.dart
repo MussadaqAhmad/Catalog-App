@@ -28,6 +28,7 @@ class MyDrawer extends StatelessWidget {
             ListTile(
               leading: Icon(
                 CupertinoIcons.home,
+                color: Colors.white,
               ),
               title: Text(
                 "Home",
@@ -38,6 +39,7 @@ class MyDrawer extends StatelessWidget {
             ListTile(
               leading: Icon(
                 CupertinoIcons.profile_circled,
+                color: Colors.white,
               ),
               title: Text(
                 "Profile",
@@ -48,6 +50,7 @@ class MyDrawer extends StatelessWidget {
             ListTile(
               leading: Icon(
                 CupertinoIcons.mail,
+                color: Colors.white,
               ),
               title: Text(
                 "Email",
